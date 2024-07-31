@@ -32,3 +32,10 @@ The goals are to secure the file system by verifying and updating permissions, t
 ## Tools Used
 
 - Linux Command Line Interface (CLI)
+
+## Steps
+
+- Check File and Directory Details
+- Change File Permissions
+- Change File Permissions on a Hidden File
+- Change Directory Permissions
